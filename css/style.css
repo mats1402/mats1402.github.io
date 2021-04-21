@@ -38,3 +38,8 @@ nav {
 .nav li a:hover {
     background-color: rgb(77, 77, 78);
 }
+.background-image {
+    background-image:image(#ffffff 100%, #ffffff 100%);
+    background-size: auto;
+    background-position: right;
+}
