@@ -54,7 +54,5 @@ list-style-type: none;
 }
 
 .background-image {
-    background-image:image(#ffffff 100%, #ffffff 100%);
-    background-size: auto;
-    background-position: right;
+    background-position: center;
 }
