@@ -52,7 +52,7 @@ list-style-type: none;
    
   
 .navbar a:hover {
-    background: #ddd;
+    background: rgb(109, 103, 103);
     color: rgb(0, 0, 0);
 }
   
@@ -66,4 +66,20 @@ list-style-type: none;
 
 .background-image {
     background-position: center;
+}
+
+.profile-link {
+    margin: 5px;
+    font-size: 50px;
+    text-align: center;
+}
+.profile-link > a {
+    text-decoration: none;
+    font-size: 50px;
+    color: black;
+} 
+ 
+.profile-link > h2 {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
 }
