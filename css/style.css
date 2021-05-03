@@ -8,7 +8,6 @@
     width: 100%;
     height: 100vh;
     background-position: center;
-    background-attachment: fixed;
     background-size: auto;
     background-image: linear-gradient(62deg, #ffffff 0%, #ffffff 100%);
 }
