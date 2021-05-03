@@ -17,11 +17,11 @@ body {margin:0;}
     position: fixed;
     top: 0;
     width: 100%;
-  }
+}
   
    
   
-  .navbar a {
+.navbar a {
     float: left;
     display: block;
     color: #ffffff;
@@ -29,22 +29,22 @@ body {margin:0;}
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-  }
+}
   
    
   
-  .navbar a:hover {
+.navbar a:hover {
     background: #ddd;
     color: rgb(0, 0, 0);
-  }
+}
   
    
   
-  .main {
+.main {
     padding: 16px;
     margin-top: 30px;
     height: 1500px; /* Used in this example to enable scrolling */
-  }
+}
 
 .background-image {
     background-image:image(#ffffff 100%, #ffffff 100%);
