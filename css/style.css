@@ -99,6 +99,6 @@ ul.no-bullets {
 }
 @media (max-width: 600px) {
     .welcome-section{
-        color: beige;
+        color: rgb(255, 255, 0);
     }
 }
