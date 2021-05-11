@@ -98,7 +98,7 @@ ul.no-bullets {
     font-family: 'Times New Roman', Times, serif;
 }
 @media (max-width: 600px) {
-    .body{
+    .welcome-section{
         color: beige;
     }
 }
