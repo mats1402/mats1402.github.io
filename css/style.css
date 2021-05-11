@@ -97,3 +97,8 @@ ul.no-bullets {
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
 }
+@media (max-width: 600px) {
+    .body{
+        color: beige;
+    }
+}
